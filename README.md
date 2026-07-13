@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0344-reverse-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
 | ------- |
