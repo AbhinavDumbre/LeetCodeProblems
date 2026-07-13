@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2553-separate-the-digits-in-an-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0796-rotate-string) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
