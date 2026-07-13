@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0058-length-of-last-word) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
