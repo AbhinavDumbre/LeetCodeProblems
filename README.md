@@ -10,16 +10,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,8 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
