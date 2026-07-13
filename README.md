@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0268-missing-number) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Binary Search
 |  |
 | ------- |
