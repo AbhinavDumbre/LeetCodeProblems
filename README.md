@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -101,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
