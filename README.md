@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0136-single-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0867-transpose-matrix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 ## Trie
@@ -104,5 +106,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
