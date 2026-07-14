@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0867-transpose-matrix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 ## Trie
 |  |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
