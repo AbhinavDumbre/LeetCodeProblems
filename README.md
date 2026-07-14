@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0724-find-pivot-index) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0268-missing-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
