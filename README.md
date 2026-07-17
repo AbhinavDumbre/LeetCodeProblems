@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0704-binary-search](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
