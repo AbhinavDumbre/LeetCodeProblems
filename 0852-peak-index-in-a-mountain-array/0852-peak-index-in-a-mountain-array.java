@@ -7,7 +7,7 @@ class Solution {
         int ans=-1;
         while(s<=e){
             int mid=s+(e-s)/2;
-            if(arr[mid]>=arr[mid+1]){
+            if(mid==n-1||arr[mid]>=arr[mid+1]){
                 ans=mid;
                 e=mid-1;
             }else{
