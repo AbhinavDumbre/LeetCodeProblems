@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
 |  |
 | ------- |
