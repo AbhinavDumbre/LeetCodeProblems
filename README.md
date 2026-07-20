@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0268-missing-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
