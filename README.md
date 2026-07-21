@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3843-first-element-with-unique-frequency](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3843-first-element-with-unique-frequency) |
+| [3925-concatenate-array-with-reverse](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3925-concatenate-array-with-reverse) |
 ## Trie
 |  |
 | ------- |
