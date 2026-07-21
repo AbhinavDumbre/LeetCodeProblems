@@ -5,8 +5,8 @@ class Solution {
         ans[i]=nums[i];
        }
        int j=nums.length;
-       for(int p=nums.length-1;p>=0;p--){
-        ans[j]=nums[p];
+       for(int i=nums.length-1;i>=0;i--){
+        ans[j]=nums[i];
         j++;
        }
     return ans;}
