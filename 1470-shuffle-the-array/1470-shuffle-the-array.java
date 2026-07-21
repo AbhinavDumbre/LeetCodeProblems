@@ -8,8 +8,8 @@ class Solution {
             if(j<nums.length &&i<n){
             arr[m]=nums[i];
             arr[m+1]=nums[j];
-            m++;
-            m++;
+            
+            m=m+2;
             i++;
             j++;}
     
