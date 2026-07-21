@@ -6,7 +6,8 @@ class Solution {
        }
        int j=nums.length;
        for(int p=nums.length-1;p>=0;p--){
-        ans[j++]=nums[p];
+        ans[j]=nums[p];
+        j++;
        }
     return ans;}
 }
