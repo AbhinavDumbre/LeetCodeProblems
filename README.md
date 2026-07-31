@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3843-first-element-with-unique-frequency](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3843-first-element-with-unique-frequency) |
 ## Math
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0796-rotate-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0912-sort-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3843-first-element-with-unique-frequency](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3843-first-element-with-unique-frequency) |
 ## Divide and Conquer
 |  |
@@ -158,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0912-sort-an-array) |
+## Greedy
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
