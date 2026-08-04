@@ -35,7 +35,7 @@ class Solution {
 			}
 
 		}
-		if (digit.length() <= letter.length()) {
+		else{
 			while (i < letter.length() || j < digit.length()) {
 				if (i < letter.length()) {
 					ans.append(letter.charAt(i));
