@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0268-missing-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0344-reverse-string) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0268-missing-number) |
 ## Sorting
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
