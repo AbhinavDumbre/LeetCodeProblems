@@ -1,7 +1,7 @@
 class Solution {
     public String reformat(String s) {
-		StringBuffer letter = new StringBuffer();
-		StringBuffer digit = new StringBuffer();
+		StringBuilder letter = new StringBuilder();
+		StringBuilder digit = new StringBuilder();
 		for (char i : s.toCharArray()) {
 			if (Character.isLetter(i)) {
 				letter.append(i);
