@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2716-minimize-string-length](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/2716-minimize-string-length) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3843-first-element-with-unique-frequency](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3843-first-element-with-unique-frequency) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0796-rotate-string) |
 | [1417-reformat-the-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1417-reformat-the-string) |
 | [1528-shuffle-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1528-shuffle-string) |
+| [2716-minimize-string-length](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/2716-minimize-string-length) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
