@@ -7,7 +7,7 @@ class Solution {
 				letter.append(i);
 
 			}
-			if (Character.isDigit(i)) {
+			else{
 				digit.append(i);
 			}
 
@@ -22,7 +22,7 @@ class Solution {
 		int i = 0;
 		int j = 0;
 		if (digit.length() > letter.length()) {
-			while (i < digit.length() || j < letter.length()) {
+			while (i < digit.length()|| j < letter.length()) {
 				if (i < digit.length()) {
 					ans.append(digit.charAt(i));
 					i++;
