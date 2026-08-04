@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1528-shuffle-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1528-shuffle-string) |
 | [1929-concatenation-of-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0796-rotate-string) |
+| [1528-shuffle-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1528-shuffle-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
