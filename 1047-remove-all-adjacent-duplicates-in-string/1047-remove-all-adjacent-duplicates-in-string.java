@@ -3,12 +3,12 @@ class Solution {
         StringBuilder br=new StringBuilder();
        
         for(int i=0;i<s.length();i++){
-        
-        if(br.length()>0 && br.charAt(br.length()-1)==s.charAt(i)){
+        char ch=s.charAt(i);
+        if(br.length()>0 && br.charAt(br.length()-1)==ch){
             br.deleteCharAt(br.length()-1);
         }
         else{
-            br.append(s.charAt(i));
+            br.append(ch);
         }
         }return br.toString();
 
