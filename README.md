@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0796-rotate-string) |
 | [1417-reformat-the-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1417-reformat-the-string) |
 | [1528-shuffle-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1528-shuffle-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2716-minimize-string-length](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/2716-minimize-string-length) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0867-transpose-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3925-concatenate-array-with-reverse) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
