@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0567-permutation-in-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [2716-minimize-string-length](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/2716-minimize-string-length) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0796-rotate-string) |
 | [1417-reformat-the-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1417-reformat-the-string) |
 | [1528-shuffle-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1528-shuffle-string) |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/AbhinavDumbre/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
